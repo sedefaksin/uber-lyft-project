@@ -1,0 +1,12 @@
+# Large raw data (download separately, see README)
+*.parquet
+trips.csv
+data/trips*.csv
+# Editor / OS
+.vscode/
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
+# Power BI temp
+*.pbix.tmp
